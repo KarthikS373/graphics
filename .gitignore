@@ -1,0 +1,22 @@
+# Ignore Python byte code files
+__pycache__
+*.pyc
+
+# Ignore the virtual environment directory created by Poetry
+.venv/
+
+# Ignore build and distribution directories
+dist/
+build/
+
+# Ignore Poetry's lock file
+poetry.lock
+
+# Ignore generated distribution archives
+*.egg-info/
+
+# Ignore user-specific config files
+pyproject.toml.user
+
+# Ignore local development files and directories
+*.log
