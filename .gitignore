@@ -1,6 +1,7 @@
 # Ignore Python byte code files
 __pycache__
 *.pyc
+.DS_Store
 
 # Ignore the virtual environment directory created by Poetry
 .venv/
