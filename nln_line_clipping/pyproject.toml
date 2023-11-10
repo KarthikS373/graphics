@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "nln-line-clipping"
+version = "0.1.0"
+description = ""
+authors = ["karthiks373 <lit2021012@iiitl.ac.in>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
